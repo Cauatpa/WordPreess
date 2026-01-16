@@ -1,7 +1,6 @@
 # WordPress - Portfólio
 
 <p> Link para Download do arquivo: https://drive.google.com/file/d/1qpieZJPiC3JeAXpR6hflPx7S7SgTjoWq/view?usp=sharing </p>
-<p> Link do portfólio hospedado: https://caua-azevado.soukick.com.br/index/ </p>
 
 <p> PDF de imagem do site: [index - Cauã.pdf](https://github.com/Cauatpa/WordPress/files/9649956/index.-.Caua.pdf)
 
